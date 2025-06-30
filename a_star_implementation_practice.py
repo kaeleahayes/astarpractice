@@ -3,7 +3,6 @@
 # Kaelea Hayes
 # 2025-06-26
 
-import math
 import heapq
 
 # Define grid cell class
